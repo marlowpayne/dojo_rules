@@ -6,3 +6,4 @@ My fav CodeSchool path is HTML & CSS
 * HTML
 * CSS
 * JavaScript
+* Killing history using git rebase
